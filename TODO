@@ -1,0 +1,7 @@
+TODO
+====
+- [ ] Pass in password as parameter
+- [ ] Pass in location to encrypt as parameter
+- [ ] Pass in specific files to encrypt as parameter
+- [ ] Add error handling to setVolumeXP
+- [ ] Add error handling to setVolumeVista
